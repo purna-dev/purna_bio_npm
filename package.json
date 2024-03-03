@@ -1,6 +1,6 @@
 {
     "name": "purna",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Know about Purna via `npx purna`",
     "bin": {
         "purna": "index.js"
@@ -8,9 +8,9 @@
     "dependencies": {
         "cli-welcome": "^2.2.2"
     },
-    "license":"UNLICENSED",
+    "license": "UNLICENSED",
     "main": "index.js",
-    "keywords" : [
+    "keywords": [
         "purna",
         "PurnaChandra",
         "chandra"
