@@ -1,5 +1,16 @@
 #!/usr/bin/env node
-console.clear()
+const welcome = require('cli-welcome')
+const pkgJson = require('./package.json')
+
+welcome({
+    title: pkgJson.name,
+    tagLine: pkgJson.description,
+    bgColor: `#FADC00`,
+    color: `#000000`,
+    bold: true,
+    clear: true,
+    version: pkgJson.version
+});
 console.log(`
 👋 Hello!
 I am Purna Chandra...... || SDE ||

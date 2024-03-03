@@ -1,7 +1,23 @@
 {
     "name": "purna",
     "version": "1.1.0",
+    "description": "Know about Purna via `npx purna`",
     "bin": {
         "purna": "index.js"
+    },
+    "dependencies": {
+        "cli-welcome": "^2.2.2"
+    },
+    "license":"UNLICENSED",
+    "main": "index.js",
+    "keywords" : [
+        "purna",
+        "PurnaChandra",
+        "chandra"
+    ],
+    "repository": "purna-dev/purna_bio_npm",
+    "author": {
+        "name": "Purna Chandra Saren",
+        "email": "impurna19@gmail.com"
     }
 }
