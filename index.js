@@ -2,7 +2,7 @@
 console.clear()
 console.log(`
 👋 Hello!
-I am Purna Chandra......
+I am Purna Chandra...... || SDE ||
 
 ----------------------------------------------------
 "Passionate full-stack JavaScript developer with 

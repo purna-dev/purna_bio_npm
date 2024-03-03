@@ -1,7 +1,7 @@
 {
-    "name":"purna",
+    "name": "purna",
     "version": "1.0.0",
     "bin": {
-        "purna":"index.js"
+        "purna": "index.js"
     }
 }
